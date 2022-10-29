@@ -1,0 +1,94 @@
+body{
+    background-color: #002352;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+img{
+    position: absolute;
+    margin-left: 20px; 
+}
+
+.texthome{
+    position: absolute;
+    margin-top: 150px;
+    width: 700px;
+    margin-left: 70px;
+    font-size: 45px;
+}
+
+.gerarbu{
+    background-color: #ff8e26;
+    border-radius: 7px;
+    padding: 3%;
+    border: #ff8e26;
+    color: #002352;
+    font-weight: bold;
+    
+}
+.circulo{
+    position: absolute;
+    top: 50%;
+    margin-right:-10%;
+    z-index: -1;  
+    opacity: 50%; 
+}
+.circulo1{
+    position: absolute;
+    z-index: -1;   
+    opacity: 50%;
+}
+
+.menu-index{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 150px;
+    width: auto;
+    height: auto;
+   
+}
+
+.menu-relatorio, .menu-recarga, .menu-gerarbilhete{
+    background-color: #ff8e26;
+    color: white;
+    padding: 40px 100px;
+    display: block;
+    text-align: center;
+    border-radius: 8px;
+    
+}
+.menu-relatorio, .menu-recarga{
+    margin-top: 10px;
+}
+
+.termodeaceite{
+    position: absolute;
+    width: 800px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 250px;
+    text-align: justify;
+}
+.link-termo{
+    background-color: #ff8e26;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+
+.area-codigobilhete{
+    border-radius: 8px;
+    background-color: white;
+    text-align: center;
+    margin-bottom: 35px;
+    padding: 10px 20px;
+}
+.menu-bilhete{
+    position: absolute;
+    width: auto;
+    height: auto;
+    margin-top: 20%;
+    margin-left: 500;
+}
+
